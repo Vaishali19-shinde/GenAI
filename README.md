@@ -8,7 +8,6 @@ A simple, privacy-focused local chatbot interface powered by **Ollama** and buil
 
 ![Local Ollama Chatbot Screenshot](./screenshot.png)
 
-> **Note**: Place your actual screenshot image in the root repository folder as `screenshot.png` (or update the image path above to match your file name).
 
 ---
 
